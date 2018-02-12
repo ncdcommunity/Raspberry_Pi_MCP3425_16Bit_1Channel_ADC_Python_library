@@ -1,4 +1,4 @@
-[![ MCP3425](MCP3425_I2C.png)](https://store.ncd.io/product/mcp3425-16-bit-1-channel-analog-to-digital-converter-i2c-mini-module/).
+[![ MCP3425](MCP3425_I2CADC.png)](https://store.ncd.io/product/mcp3425-16-bit-1-channel-analog-to-digital-converter-i2c-mini-module/).
 
 #  MCP3425
 
